@@ -1,4 +1,16 @@
-- Unix
+Assuntos a serem estudados:
+
+- SQL 
+- GIT
+- Jira (SCRUM)
+- ETL / SSIS
+- Hadoop
+- BigData
+
+
+
+
+- Linguagem Unix (navegar nas pastas)
 
 ls -- listar
 cd -- entrar na pasta
@@ -9,3 +21,17 @@ rm -- remover arquivo
 mkdir -- criar diretório
 control c -- abortar missao
 :wq -- sai do editor
+
+
+
+
+Palavras/conceitos para assimilar
+
+- Master
+- Release
+- Feature
+- Fremework
+- Deploy
+- Pull request
+- Branches
+- Commit
