@@ -2,6 +2,7 @@
 
 ls -- listar
 cd -- entrar na pasta
+cd .. -- retroceder pasta
 pwd -- ver onde estou
 touch -- adicionar arquivo
 rm -- remover arquivo
