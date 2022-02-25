@@ -1,4 +1,4 @@
-- Unics
+- Unix
 
 ls -- listar
 cd -- entrar na pasta
@@ -7,3 +7,4 @@ touch -- adicionar arquivo
 rm -- remover arquivo
 mkdir -- criar diretório
 control c -- abortar missao
+:wq -- sai do editor
