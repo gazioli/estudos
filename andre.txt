@@ -47,7 +47,7 @@ Palavras/conceitos para assimilar:
 
 Comandos para entender:
 
-- (-u) "git push -u origin master" -- ??
+- (-u) "git push -u origin master" -- quando vou subir varias vezes e usando apenas git push
 - (-v) "git remote -v" -- ??
 - (-m) "git commit -m" -- colocar mensagem
 - (-a) ls -a -- mostra arquivos ocultos
