@@ -6,6 +6,7 @@ Assuntos a serem estudados:
 - ETL / SSIS
 - Hadoop
 - BigData
+- SCM
 
 
 
@@ -13,19 +14,25 @@ Assuntos a serem estudados:
 - Linguagem Unix (navegar nas pastas)
 
 ls -- listar
+ls -l -- lista arquivos com dados
+ls -a -- lista arquivos ocultos
 cd -- entrar na pasta
 cd .. -- retroceder pasta
 pwd -- ver onde estou
 touch -- adicionar arquivo
 rm -- remover arquivo
+rm -rf -- remover a pasta inteira 
 mkdir -- criar diretório
 control c -- abortar missao
 :wq -- sai do editor
+nano -- cria arquivo
+mv -- renomeia nome do arquivo (mv nomeantigo.txt nomenovo txt)
 
 
 
 
-Palavras/conceitos para assimilar
+
+Palavras/conceitos para assimilar:
 
 - Master
 - Release
@@ -35,3 +42,12 @@ Palavras/conceitos para assimilar
 - Pull request
 - Branches
 - Commit
+- Origin
+
+
+Comandos para entender:
+
+- (-u) "git push -u origin master" -- ??
+- (-v) "git remote -v" -- ??
+- (-m) "git commit -m" -- colocar mensagem
+- (-a) ls -a -- mostra arquivos ocultos
