@@ -16,6 +16,7 @@ Assuntos a serem estudados:
 ls -- listar
 ls -l -- lista arquivos com dados
 ls -a -- lista arquivos ocultos
+ls la ~/ -- entro pra ver credenciais
 cd -- entrar na pasta
 cd .. -- retroceder pasta
 pwd -- ver onde estou
@@ -52,3 +53,4 @@ Comandos para entender:
 - (-v) "git remote -v" -- ??
 - (-m) "git commit -m" -- colocar mensagem
 - (-a) ls -a -- mostra arquivos ocultos
+- (-b) "git checkout -b exemplo_branch" da nome e cria a branch
