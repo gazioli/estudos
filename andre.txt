@@ -25,6 +25,7 @@ rm -rf -- remover a pasta inteira
 mkdir -- criar diretório
 control c -- abortar missao
 :wq -- sai do editor
+:qa! -- sai do editor de texto
 nano -- cria arquivo
 mv -- renomeia nome do arquivo (mv nomeantigo.txt nomenovo txt)
 && -- permite dar sois comandos em uma só linha
