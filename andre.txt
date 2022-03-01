@@ -27,7 +27,7 @@ control c -- abortar missao
 :wq -- sai do editor
 nano -- cria arquivo
 mv -- renomeia nome do arquivo (mv nomeantigo.txt nomenovo txt)
-
+&& -- permite dar sois comandos em uma só linha
 
 
 
