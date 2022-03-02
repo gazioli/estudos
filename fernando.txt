@@ -1,6 +1,2 @@
-gazioli
->>>>>>> 429aa14cd564bd659427c7c567d70c456cd35d3f
-
-Copiei o token aqui, para apagar aquele repositorio e pasta que estavamos usando de teste ok?
-Assim mantemos concentrato nossos estudos nesse repositório,
-if it works;
+gazioli - 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
+Andre - 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
