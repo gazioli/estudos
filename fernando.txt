@@ -1,0 +1,6 @@
+gazioli
+>>>>>>> 429aa14cd564bd659427c7c567d70c456cd35d3f
+
+Copiei o token aqui, para apagar aquele repositorio e pasta que estavamos usando de teste ok?
+Assim mantemos concentrato nossos estudos nesse repositório,
+if it works;
