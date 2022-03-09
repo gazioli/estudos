@@ -1,0 +1,5 @@
+Resumo de Python 
+
+Notas/Lembretes:
+
+"" ou ''  --  usado quando é inserido texto (tanto faz 'ou")

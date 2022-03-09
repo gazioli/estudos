@@ -2,7 +2,10 @@ Assuntos a serem estudados:
 
 - SQL 
 - GIT
-- Jira (SCRUM)
+- Python
+- Jira / confluence
+- SCRUM
+- Kanban
 - ETL / SSIS
 - Hadoop
 - BigData
@@ -54,3 +57,5 @@ Comandos para entender:
 - (-m) "git commit -m" -- colocar mensagem
 - (-a) ls -a -- mostra arquivos ocultos
 - (-b) "git checkout -b exemplo_branch" da nome e cria a branch
+- (-f) "git rm -f"ou "git branch -f"
+
