@@ -1,15 +1,17 @@
 Assuntos a serem estudados:
 
-- SQL 
-- GIT
-- Python
+- SQL ok 
+- GIT ok
+- Python ok
 - Jira / confluence
 - SCRUM
 - Kanban
-- ETL / SSIS
+- ETL / SSIS ok
 - Hadoop
 - BigData
 - SCM
+- CLEAN CODE - Filipe Deschamps
+- Numerologia - Curso em Vídeo
 
 
 
